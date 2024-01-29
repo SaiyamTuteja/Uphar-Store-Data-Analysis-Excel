@@ -52,7 +52,7 @@ To boost Uphar store sales, consider the following strategies:
 
 ## Excel Sheet Availability
 
-The Excel sheet used for this analysis is available in this repository: [store_data.xlsx](data/store_data.xlsx).
+The Excel sheet used for this analysis is available in this repository: **Uphar Store Data Analysis.xlsx**
 
 Feel free to reach out if you have any questions or require further details!
 
