@@ -26,7 +26,7 @@ This project aims to enhance store profitability by leveraging effective data an
 
 ## Recommendations
 
-To boost Vrinda store sales, consider the following strategies:
+To boost Uphar store sales, consider the following strategies:
 
 - **Target Audience:**
   - Focus on women customers aged 30-49 years.
